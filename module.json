@@ -1,0 +1,10 @@
+{
+  "id": "hide-trail",
+  "title": "Hide Movement Trail",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "scripts": ["hide-trail.js"]
+}
