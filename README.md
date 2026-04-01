@@ -1,4 +1,5 @@
 # Hide Movement Trail
+**Manifest URL:** `https://raw.githubusercontent.com/VaniFoundry/hide-trail/main/module.json`
 
 A Foundry VTT module that hides the movement trail left behind tokens as they move across the canvas.
 
